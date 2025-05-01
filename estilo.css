@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+RO:wght@100..400&display=swap');
+
+#titulo{
+	color: red;
+}
+
+.parrafos{
+	font-size: 25px;
+}
+
+.contenedor{
+	background-color: gray;
+}
+
+h2{
+	font-family: "Playwrite RO", cursive;
+  	font-weight: 200;
+  	font-style: normal;
+}
